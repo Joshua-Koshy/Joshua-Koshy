@@ -1,6 +1,6 @@
 I’m @Joshua-Koshy
 - I work on VRC Robotics Code
-- I work on LTHS Website on another account
+- I work on the LT Robotics Website on another account
 
 
 <!---
